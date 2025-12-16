@@ -1,0 +1,22 @@
+# Основные библиотеки
+sentinelhub
+matplotlib
+numpy
+pandas
+geopandas
+rasterio
+shapely
+scikit-learn
+scikit-image
+opencv-python
+folium
+matplotlib
+
+# Визуализация и анализ
+jupyter
+ipywidgets
+seaborn
+
+# Утилиты
+tqdm
+python-dotenv
